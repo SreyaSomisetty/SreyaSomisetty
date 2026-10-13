@@ -3,10 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://sreyasomisetty.github.io"><b>Portfolio</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://sreyasomisetty17.github.io/Portfolio/"><b>Portfolio</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sreyasomisetty/"><b>LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:sreyasomisetty@gmail.com"><b>Email</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://sreyasomisetty.github.io/Sreya_Somisetty_Resume.pdf"><b>Résumé</b></a>
 </p>
 
 <img src="assets/impact.svg" width="100%" alt="Impact: 6+ years in industry, 500K+ Kafka messages a day, 1M+ API requests a month, 40% fewer production incidents." />
